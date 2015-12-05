@@ -16,6 +16,6 @@ doc/
 *~
 .project
 .DS_Store
-.idea
+/.idea
 .secret
-.sublime-project
+/.sublime-project
